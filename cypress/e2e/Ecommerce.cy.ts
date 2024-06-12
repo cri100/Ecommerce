@@ -15,7 +15,6 @@ beforeEach(() => {
 
 describe("E-commerce Website Testing", () => {
 	it("1. User registration", () => {
-		let productName;
 		homePage.dismissAcceptenceDialog();
 		homePage.clickSignInTopMenuButton();
 
